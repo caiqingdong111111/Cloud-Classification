@@ -47,11 +47,11 @@ Pretrained weights are loaded from the timm model repository.
 ---
 
 # Requirements:
--Python 3.9+
--torch==2.0.1+cu128
--torchvision==0.23.0+cu128
--timm==0.9.12
--numpy==1.21.5
--scikit-learn==1.0.2
--Pillow==9.2.0
--matplotlib==3.5.2
+- Python 3.9+
+- torch==2.0.1+cu128
+- torchvision==0.23.0+cu128
+- timm==0.9.12
+- numpy==1.21.5
+- scikit-learn==1.0.2
+- Pillow==9.2.0
+- matplotlib==3.5.2
